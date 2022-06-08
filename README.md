@@ -61,13 +61,13 @@
  <img align="center" height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalsingh-07&show_icons=true&locale=en&layout=compact" alt="vishalsingh-07" />
 </p>
 
-<p align="left">
- &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalsingh-07&show_icons=true&locale=en" alt="vishalsingh-07" />
+<p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalsingh-07&show_icons=true&locale=en" alt="vishalsingh-07" />
+</p>
+<p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsingh-07&" alt="vishalsingh-07" />
+</p>
 </p>
 
-<p align="right">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsingh-07&" alt="vishalsingh-07" />
-</p>
 
 
 
