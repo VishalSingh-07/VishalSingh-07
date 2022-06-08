@@ -57,11 +57,7 @@
 
 <br>
 
-<p align="center">
-<a href="https://github.com/nishika-khatri/github-readme-stats"><img alt="Nishika Khatri's Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishika-khatri&langs_count=8&count_private=true&layout=compact&theme=black-ice&hide_border=true&bg_color=060A0CD0" /></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalsingh-07&show_icons=true&locale=en&layout=compact" alt="vishalsingh-07" /></p>
+<p><img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalsingh-07&show_icons=true&locale=en&layout=compact" alt="vishalsingh-07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalsingh-07&show_icons=true&locale=en" alt="vishalsingh-07" /></p>
 
