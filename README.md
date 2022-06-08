@@ -57,11 +57,11 @@
 <br>
 <p>
 <span align="left">&nbsp;
- <img align="center" height="100" src="https://github-readme-stats.vercel.app/api?username=vishalsingh-07&show_icons=true&locale=en" alt="vishalsingh-07" />
+ <img align="center" height="150" weight="auto" src="https://github-readme-stats.vercel.app/api?username=vishalsingh-07&show_icons=true&locale=en" alt="vishalsingh-07" />
 </span>
 
 <span align="right">
- <img align="right" height="100" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsingh-07&" alt="vishalsingh-07" />
+ <img align="right" height="150" width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsingh-07&" alt="vishalsingh-07" />
 </span>
 </p>
 <p align="center">
