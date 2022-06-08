@@ -56,12 +56,14 @@
 
 <br>
 <br>
-<p align="center">&nbsp;
+<p>
+<span align="left">&nbsp;
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalsingh-07&show_icons=true&locale=en" alt="vishalsingh-07" />
-</p>
+</span>
 
-<p align="center">
+<span align="right">
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsingh-07&" alt="vishalsingh-07" />
+</span>
 </p>
 <p align="center">
  <img align="center" height="250" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalsingh-07&show_icons=true&locale=en&layout=compact" alt="vishalsingh-07" />
