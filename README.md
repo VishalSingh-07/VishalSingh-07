@@ -57,7 +57,9 @@
 
 <br>
 
-<p><img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalsingh-07&show_icons=true&locale=en&layout=compact" alt="vishalsingh-07" /></p>
+<p align="center">
+ <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalsingh-07&show_icons=true&locale=en&layout=compact" alt="vishalsingh-07" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalsingh-07&show_icons=true&locale=en" alt="vishalsingh-07" /></p>
 
