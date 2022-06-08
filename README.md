@@ -43,7 +43,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/> </a> 
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="70" height="70"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="70" height="70"/> </a> 
- <br>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/> </a> 
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="70" height="70"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="70" height="70"/> </a> 
@@ -58,11 +57,11 @@
 <br>
 <p>
 <span align="left">&nbsp;
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalsingh-07&show_icons=true&locale=en" alt="vishalsingh-07" />
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=vishalsingh-07&show_icons=true&locale=en" alt="vishalsingh-07" />
 </span>
 
 <span align="right">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsingh-07&" alt="vishalsingh-07" />
+ <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsingh-07&" alt="vishalsingh-07" />
 </span>
 </p>
 <p align="center">
