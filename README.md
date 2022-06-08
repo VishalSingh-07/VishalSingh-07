@@ -9,9 +9,11 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **Full Stack development , Data Science.**
+- 💬 Ask me about **Full Stack developer , Data Science.**
 
 - 📫 How to reach me **vishalsinghagr25@gmail.com**
+-
+- ⚡ I love **listening music. 🪄**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -45,11 +47,12 @@
 <a href="https://github.com/nishika-khatri/github-readme-stats"><img alt="Nishika Khatri's Top Languages" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishika-khatri&langs_count=8&count_private=true&layout=compact&theme=black-ice&hide_border=true&bg_color=060A0CD0" /></a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/Vishal_Singh/github-readme-streak-stats">
-        <img height="200" title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Vishal Singh streak" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=nishika-khatri&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalsingh-07&show_icons=true&locale=en&layout=compact" alt="vishalsingh-07" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishalsingh-07&show_icons=true&locale=en" alt="vishalsingh-07" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsingh-07&" alt="vishalsingh-07" /></p>
+
 
 
 
