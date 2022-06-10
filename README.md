@@ -1,4 +1,5 @@
-![MasterHead](https://raywontalks.com/static/f794ba654a71deae48b8bccc98621ce7/ee604/image.png)
+![MasterHead]
+(https://snz04pap002files.storage.live.com/y4mMIZQyb9Ud-22uCGmT7bB03_EMgbXJy_tLNjKBCkNT5P8NMWnlh3Anw-2CjmGkRzb-PDhGQaRnQd3913XdZYzKXJTrT26YcWlxKFN9sMz5TmINE9Nxb9eRMeQ91YMekY5BTVS8GLH1R3PEfGGR-6LY7f-lIM1XbkxY7l_dnjASFfkgZ-cCXM1yIKQ6FYUC3k9?width=1584&height=396&cropmode=none)
 
 <h1 align="center">Hi 👋, I'm Vishal Singh</h1>
 <h3 align="center">A Passionate Programmer | Full Stack Developer | Technology Enthusiast | CSE Sophomore </h3>
