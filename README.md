@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VishalSingh-07](https://github.com/VishalSingh-07)
+- 👨‍💻 CHECKOUT MY PORTFOLIO WEBSITE [https://vishalsinghportfolio.netlify.app/](Vishal Singh)
 
 - 💬 Ask me about **Web development, Data Science**
 
