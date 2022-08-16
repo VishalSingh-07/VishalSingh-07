@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 **CHECKOUT MY PORTFOLIO WEBSITE** [https://vishalsinghportfolio.netlify.app/](https://vishalsinghportfolio.netlify.app/)
+- 🧑‍💻 <a href="https://vishalsinghportfolio.netlify.com" target="blank"><b>CHECKOUT MY PORTFOLIO WEBSITE<b></a>
 
 - 💬 Ask me about **Web development, Data Science**
 
@@ -20,12 +20,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vishalsingh_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishalsingh_13" height="30" width="40" /></a>
+<a href="https://twitter.com/vishalsingh_13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishalsingh_13" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/linkedin.com/in/vishal-singh-733570200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/vishal-singh-733570200" height="30" width="40" /></a>
-<a href="https://kaggle.com/vishalsingh449" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishalsingh449" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vishal_00007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vishal_00007" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/vishalsinghagr25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vishalsinghagr25" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/xTfrKz3S" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/xTfrKz3S" height="30" width="40" /></a>
+<!-- <a href="https://kaggle.com/vishalsingh449" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vishalsingh449" height="30" width="30"/></a> -->
+<a href="https://www.hackerrank.com/vishal_00007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vishal_00007" height="30" width="30" /></a>
+<!-- <a href="https://auth.geeksforgeeks.org/user/vishalsinghagr25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vishalsinghagr25" height="30" width="30" /></a> -->
+<a href="https://discord.gg/https://discord.gg/xTfrKz3S" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/xTfrKz3S" height="30" width="30" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <br>
