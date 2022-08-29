@@ -11,7 +11,7 @@
 
 - 🧑‍💻 <a href="https://vishalsinghportfolio.netlify.com" target="blank"><b>CHECKOUT MY PORTFOLIO WEBSITE<b></a>
 
-- 💬 Ask me about **Web development, Data Science**
+- 💬 Ask me about **Web development, Machine Learning**
 
 - 📫 How to reach me **vishalsinghagr25@gmail.com**
 
