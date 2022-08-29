@@ -1,13 +1,13 @@
 ![MasterHead](https://snz04pap002files.storage.live.com/y4mMIZQyb9Ud-22uCGmT7bB03_EMgbXJy_tLNjKBCkNT5P8NMWnlh3Anw-2CjmGkRzb-PDhGQaRnQd3913XdZYzKXJTrT26YcWlxKFN9sMz5TmINE9Nxb9eRMeQ91YMekY5BTVS8GLH1R3PEfGGR-6LY7f-lIM1XbkxY7l_dnjASFfkgZ-cCXM1yIKQ6FYUC3k9?width=1584&height=396&cropmode=none)
 
 <h1 align="center">Hi 👋, I'm Vishal Singh</h1>
-<h3 align="center">A Passionate Programmer | Full Stack Developer | Technology Enthusiast | CSE Sophomore </h3>
+<h3 align="center">A Passionate Programmer | Full Stack Developer | Technology Enthusiast | CSE Junior </h3>
 <img align="right" alt="coding" width="400" src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif">
 <br>
 
 <h3 align="left">About me:</h3>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **scss**
 
 - 🧑‍💻 <a href="https://vishalsinghportfolio.netlify.com" target="blank"><b>CHECKOUT MY PORTFOLIO WEBSITE<b></a>
 
