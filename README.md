@@ -64,14 +64,14 @@
  
 
 ###
-<br clear="both">
-![snake gif](https://github.com/VishalSingh-07/VishalSingh-07/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/VishalSingh-07/VishalSingh-07/blob/output/github-contribution-grid-snake.svg)
 
-###
-##
 # 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=VishalSingh-07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VishalSingh-07&icon=1&color=3)](https://visitcount.itsvg.in)
+
+
+
