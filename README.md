@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Vishal Singh</h1>
 <h3 align="center">A Passionate Programmer | Full Stack Developer |  CSE Senior </h3>
-<div align="center"><img align="center" height="500" src="https://github.com/VishalSingh-07/VishalSingh-07/assets/72917258/cf7ec68c-123c-4c53-a37c-50082bdf510b"  /></div>
+<div align="center"><img align="center" height="400" src="https://github.com/VishalSingh-07/VishalSingh-07/assets/72917258/cf7ec68c-123c-4c53-a37c-50082bdf510b"  /></div>
 
 
 # 💫 About Me:
@@ -65,7 +65,7 @@
 
 ###
 <br clear="both">
-<img src="https://raw.githubusercontent.com/VishalSingh-07/VishalSingh-07/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/VishalSingh-07/VishalSingh-07/blob/output/github-contribution-grid-snake.gif)
 
 ###
 ##
