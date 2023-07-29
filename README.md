@@ -3,7 +3,10 @@
 
 <h1 align="center">Hi 👋, I'm Vishal Singh</h1>
 <h3 align="center">A Passionate Programmer | Full Stack Developer |  CSE Senior </h3>
-<div align="center"><img align="center" height="400" src="https://github.com/VishalSingh-07/VishalSingh-07/assets/72917258/cf7ec68c-123c-4c53-a37c-50082bdf510b"  /></div>
+<div align="center"><img align="center" height="600" src="https://github.com/VishalSingh-07/VishalSingh-07/assets/72917258/5b554329-b42b-4434-a1d1-a7644c5e3a3d"  /></div>
+
+
+<br>
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png"><img src="https://github.com/ArshErgon/ArshErgon/raw/main/assets/header/lineBar.png" width="100%" height="8px" style="max-width: 100%;"></a>
 
@@ -63,29 +66,26 @@
 
 
 ### 📊 GitHub Stats:
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VishalSingh-07&theme=swift&hide_border=false&include_all_commits=true&count_private=false" alt="VishalSingh-07" height="180" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalSingh-07&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="VishalSingh-07" height="180" width=""/>
+</p>
+
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VishalSingh-07&theme=swift&hide_border=false" alt="VishalSingh-07" /></p>
  
- ![](https://github-readme-stats.vercel.app/api?username=VishalSingh-07&theme=swift&hide_border=false&include_all_commits=true&count_private=false)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=VishalSingh-07&theme=swift&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalSingh-07&theme=swift&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
- 
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png"><img src="https://github.com/ArshErgon/ArshErgon/raw/main/assets/header/lineBar.png" width="100%" height="8px" style="max-width: 100%;"></a>
-
-
-![snake gif](https://github.com/VishalSingh-07/VishalSingh-07/blob/output/github-contribution-grid-snake.svg)
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png"><img src="https://github.com/ArshErgon/ArshErgon/raw/main/assets/header/lineBar.png" width="100%" height="8px" style="max-width: 100%;"></a>
 
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=VishalSingh-07&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-[![](https://visitcount.itsvg.in/api?id=VishalSingh-07&icon=1&color=3)](https://visitcount.itsvg.in)
-
+<p align="center" ><img align="center" src="https://github-contributor-stats.vercel.app/api?username=VishalSingh-07&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="VishalSingh-07" /></p>
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png"><img src="https://github.com/ArshErgon/ArshErgon/raw/main/assets/header/lineBar.png" width="100%" height="8px" style="max-width: 100%;"></a>
+
+[![](https://visitcount.itsvg.in/api?id=VishalSingh-07&icon=1&color=3)](https://visitcount.itsvg.in)
 
 <p align="center" dir="auto"><br><br>
   <samp>
