@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Vishal Singh</h1>
 <h3 align="center">A Passionate Programmer | Full Stack Developer |  CSE Senior </h3>
-<div align="center"><img align="center" height="600" src="https://github.com/VishalSingh-07/VishalSingh-07/assets/72917258/5b554329-b42b-4434-a1d1-a7644c5e3a3d"  /></div>
+<div align="center"><img align="center" height="400" src="https://github.com/VishalSingh-07/VishalSingh-07/assets/72917258/5b554329-b42b-4434-a1d1-a7644c5e3a3d"  /></div>
 
 
 <br>
