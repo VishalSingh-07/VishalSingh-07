@@ -80,11 +80,11 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishalSingh-07&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" alt="VishalSingh-07" height="180" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalSingh-07&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="VishalSingh-07" height="180" width=""/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VishalSingh-07&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false" alt="VishalSingh-07" height="180" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalSingh-07&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="VishalSingh-07" height="180" width=""/>
 </p>
 
-<p align="center" ><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=VishalSingh-07&theme=github_dark&hide_border=true" alt="VishalSingh-07" /></p>
+<p align="center" ><img align="center" src="https://nirzak-streak-stats.vercel.app/?user=VishalSingh-07&theme=github_dark&hide_border=false" alt="VishalSingh-07" /></p>
  
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png"><img src="https://github.com/ArshErgon/ArshErgon/raw/main/assets/header/lineBar.png" width="100%" height="8px" style="max-width: 100%;"></a>
@@ -96,22 +96,24 @@
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png"><img src="https://github.com/ArshErgon/ArshErgon/raw/main/assets/header/lineBar.png" width="100%" height="8px" style="max-width: 100%;"></a>
 
+### GitHub Contribution Animation
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/VishalSingh-07/VishalSingh-07/output/snake.svg" alt="Snake animation" />
-
-###
-
+<img src="https://raw.githubusercontent.com/VishalSingh-07/VishalSingh-07/output/snake.svg" alt="" />
+ 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishalSingh-07/VishalSingh-07/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VishalSingh-07/VishalSingh-07/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VishalSingh-07/VishalSingh-07/output/pacman-contribution-graph.svg">
+  <img alt="" src="https://raw.githubusercontent.com/VishalSingh-07/VishalSingh-07/output/pacman-contribution-graph.svg">
 </picture>
 
-<br>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png"><img src="https://github.com/ArshErgon/ArshErgon/raw/main/assets/header/lineBar.png" width="100%" height="8px" style="max-width: 100%;"></a>
 
-<img src="https://komarev.com/ghpvc/?username=VishalSingh-07&color=blue" width="200" height=""> </img>
+
+### Profile View
+
+<img src="https://komarev.com/ghpvc/?username=VishalSingh-07&color=blue" width="150" height=""> </img>
 
 <p align="center" dir="auto"><br><br>
   <samp>
