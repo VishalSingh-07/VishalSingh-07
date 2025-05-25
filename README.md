@@ -100,12 +100,12 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/VishalSingh-07/VishalSingh-07/output/snake.svg" alt="" />
+<img src="https://raw.githubusercontent.com/VishalSingh-07/VishalSingh-07/snake-output/snake.svg" alt="" />
  
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishalSingh-07/VishalSingh-07/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VishalSingh-07/VishalSingh-07/output/pacman-contribution-graph.svg">
-  <img alt="" src="https://raw.githubusercontent.com/VishalSingh-07/VishalSingh-07/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VishalSingh-07/VishalSingh-07/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VishalSingh-07/VishalSingh-07/pacman-output/pacman-contribution-graph.svg">
+  <img alt="" src="https://raw.githubusercontent.com/VishalSingh-07/VishalSingh-07/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png"><img src="https://github.com/ArshErgon/ArshErgon/raw/main/assets/header/lineBar.png" width="100%" height="8px" style="max-width: 100%;"></a>
